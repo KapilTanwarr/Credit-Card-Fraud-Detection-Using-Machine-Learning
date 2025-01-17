@@ -6,8 +6,8 @@ Preprocessed a highly imbalanced dataset.
 Applied under-sampling to create a balanced training dataset.
 Evaluated the model with accuracy metrics.
 # Results:
-Accuracy on training data: XX%
-Accuracy on testing data: YY%
+Accuracy on training data: 95%
+Accuracy on testing data: 93%
 # Tech Stack:
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn
